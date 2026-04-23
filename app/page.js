@@ -1,0 +1,1 @@
+export default function H(){return <main style={{padding:40,textAlign:'center'}}><h1 style={{color:'#a855f7'}}>HUSH PUPPY BOT 67 MONEY READY</h1><p>Built to Convert</p><p><a href='/pricing' style={{color:'#c084fc'}}>Pricing</a> | <a href='/signup' style={{color:'#c084fc'}}>Get Started</a></p></main>}

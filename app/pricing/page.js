@@ -1,0 +1,1 @@
+export default function P(){return <main style={{padding:40}}><h1>Plans</h1><ul><li>Starter ₦1000</li><li>Pro ₦2500</li><li>Premium ₦5000</li></ul><p>Upgrade instantly after payment.</p></main>}

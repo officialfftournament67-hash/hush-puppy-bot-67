@@ -1,0 +1,1 @@
+export default function A(){return <main style={{padding:40}}><h1 style={{color:'#a855f7'}}>Money Admin</h1><p>Sales | Users | Conversions | WhatsApp Leads</p></main>}

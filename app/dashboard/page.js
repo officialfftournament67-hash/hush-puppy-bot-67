@@ -1,0 +1,1 @@
+export default function D(){return <main style={{padding:40}}><h1>User Dashboard</h1><p>Plan / renew / referrals</p></main>}

@@ -1,0 +1,1 @@
+export default function S(){return <main style={{padding:40}}><h1>Create Account</h1></main>}
